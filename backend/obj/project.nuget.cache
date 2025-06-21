@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQ+o5tyLbgg=",
+  "success": true,
+  "projectFilePath": "/Users/caseyharper/vscode/code/Projects/NotOkShop/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/caseyharper/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/caseyharper/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
